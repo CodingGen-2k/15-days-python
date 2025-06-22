@@ -53,7 +53,7 @@ Hello, Python Learner!
 
 ## 📦 Variables and Data Types
 
-Variables store information in Python.
+Variables is like a container which store information in Python.
 
 python
 name = "Alex"       # str  
